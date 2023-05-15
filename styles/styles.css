@@ -1,11 +1,11 @@
 @media screen and (max-width: 767px) {
-    body, .navbar-brand {
+    body {
         font-size: 0.7rem;
    }
 }
 /* sm */
 @media screen and (min-width: 768px) {
-    body, .navbar-brand {
+    body {
         font-size: 0.8rem;
    }
 }
@@ -46,6 +46,7 @@ body {
     text-shadow: 0px 0px 10px white;
 }
 .navbar-brand, .navbar-brand:hover {
+    font-size: 1.5rem;
     color: white;
 }
 #nav-icons {
