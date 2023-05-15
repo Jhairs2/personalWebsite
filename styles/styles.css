@@ -25,7 +25,7 @@
 html {
     height: 100%;
     width: 100%;
-    font-family: Tahoma, Verdana;
+    font-family: Tahoma, Verdana, Geneva, sans-serif;
     font-size: 1.3rem;
 }
 body {
@@ -157,7 +157,7 @@ body {
     flex-direction: column;
     border: 5px double white;
 }
-.about-vme > p {
+.about-me > p {
     color: white;
 }
 .about-me-title {
