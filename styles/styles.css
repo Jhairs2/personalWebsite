@@ -73,13 +73,7 @@ body {
     align-items: center;
     flex-direction: column;
 }
-/* Picture */
-#self-pic-home {
-    width: 30%;
-    height: auto;
-    border-radius: 50%;
-    border: 5px solid white;
-}
+
 #intro-self {
     text-align: center;
     font-size: 4rem;
